@@ -1,0 +1,9 @@
+
+{
+    "name": "personal-portfolio",
+    "version": "2.0.0",
+    "description": "Personal portfolio website with unit testing",
+    "scripts": {
+        "test": "node --test"
+    }
+}
